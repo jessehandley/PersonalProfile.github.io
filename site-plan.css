@@ -6,9 +6,9 @@ Fonts are separated by a | */
 :root {
   /* change the values below to your colors from your palette */
   --primary-color: #124559   ;
-  --secondary-color: #4f78e7 ;
-  --accent1-color: #963326;
-  --accent2-color: white;
+  --secondary-color: #5369a5 ;
+  --accent1-color: #2e3a1d;
+  --accent2-color: rgb(255, 255, 255);
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Merriweather, Lato";
